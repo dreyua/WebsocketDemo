@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Websocket Demo</string>
+    <string name="action_save">Save</string>
+    <string name="def_port">5555</string>
+    <string name="def_host">ws://127.0.0.1</string>
+</resources>
